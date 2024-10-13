@@ -1,7 +1,8 @@
-![Uploading Player 2 - gif animation.gif…]()
+<h1 align>Hi 👋, I'm Anubhav,</h1>
 
-<h1 align="center">Hi 👋, I'm Anubhav Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![Uploading Player 2 - gif animation.gif…]
+
+
 <img src="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm" alt="Right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavsoni001&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavsoni001" /> </p>
